@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "itemName": "Sesame Chegodi (నువ్వుల కారం చేగోడీలు)",
+    "imagePath": "/Sesame_Chegodi.webp",
+    "price": 120,
+    "quantity": 0
+  },
+  {
+    "id": 2,
+    "itemName": "Chuppulu Big (చుప్పులు)",
+    "imagePath": "/Chuppulu_Big.webp",
+    "price": 120,
+    "quantity": 0
+  },
+  {
+    "id": 3,
+    "itemName": "Nuts Chegodi (పప్పు చేగోడీలు)",
+    "imagePath": "/Nuts_Chegodi.webp",
+    "price": 160,
+    "quantity": 0
+  },
+  {
+    "id": 4,
+    "itemName": "Coconut Biscuits (కొబ్బరి బిస్కెట్లు)",
+    "imagePath": "/Coconut_Biscuits.webp",
+    "price": 130,
+    "quantity": 0
+  },
+  {
+    "id": 5,
+    "itemName": "Coconut Ladoo (కొబ్బరి ఉండలు)",
+    "imagePath": "/Coconut_Ladoo.webp",
+    "price": 150,
+    "quantity": 0
+  },
+  {
+    "id": 6,
+    "itemName": "Chuppulu Small (చుప్పులు)",
+    "imagePath": "/Chuppulu_Small.webp",
+    "price": 110,
+    "quantity": 0
+  },
+  {
+    "id": 7,
+    "itemName": "Rice Flour Rolls (పాలకాయలు)",
+    "imagePath": "/Rice_Flour_Rolls.webp",
+    "price": 170,
+    "quantity": 0
+  },
+  {
+    "id": 8,
+    "itemName": "Wheat Rolls (గోధుమ గొట్టాలు) ",
+    "imagePath": "/Wheat_Rolls.webp",
+    "price": 190,
+    "quantity": 0
+  }
+]
